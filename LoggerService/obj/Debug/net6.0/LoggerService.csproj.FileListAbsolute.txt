@@ -13,3 +13,6 @@ C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\LoggerService\obj\Deb
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.pdb
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.sourcelink.json

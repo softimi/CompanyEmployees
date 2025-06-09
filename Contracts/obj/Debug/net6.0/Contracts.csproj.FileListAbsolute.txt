@@ -9,3 +9,8 @@ C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\obj\Debug\n
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.sourcelink.json
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.Up2Date

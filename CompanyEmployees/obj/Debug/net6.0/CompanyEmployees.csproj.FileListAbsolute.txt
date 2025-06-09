@@ -84,3 +84,14 @@ C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.dll
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.pdb
 C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.pdb
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.sourcelink.json
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.pdb
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\DELL\source\repos\CodeMazeWithDB\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
