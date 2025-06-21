@@ -27,27 +27,8 @@ namespace Service
                 _repository.Company.GetAllCompanies(trackChanges);
 
             var companiesDto = _mapper.Map<IEnumerable<CompanyDto>>(companies);
+
             return companiesDto;
-
-            /*try
-            {
-                var companies =
-                _repository.Company.GetAllCompanies(trackChanges);
-
-                //var companiesDto = companies.Select(c =>
-                //    new CompanyDto(c.Id, c.Name ?? "", string.Join(' ',
-                //    c.Address, c.Country)))
-                //    .ToList();
-                var companiesDto = _mapper.Map<IEnumerable<CompanyDto>>(companies);
-                return companiesDto;
-
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError($"Something went wrong in the{ nameof(GetAllCompanies)} " +
-                    $"service method {ex}");
-            throw;
-            }*/
         }
 
         public CompanyDto GetCompany(Guid id, bool trackChanges)
