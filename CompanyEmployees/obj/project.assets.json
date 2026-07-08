@@ -1791,6 +1791,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.JsonPatch": "6.0.28",
           "Microsoft.AspNetCore.Mvc.Core": "2.1.38",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "6.0.28",
           "Service.Contracts": "1.0.0"
         },
         "compile": {
@@ -5456,7 +5457,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -5496,7 +5498,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315\\RuntimeIdentifierGraph.json"
       }
     }
   }
