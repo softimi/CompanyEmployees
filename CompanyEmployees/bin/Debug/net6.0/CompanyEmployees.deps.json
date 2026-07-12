@@ -1001,8 +1001,7 @@
           "Microsoft.AspNetCore.JsonPatch": "6.0.36",
           "Microsoft.AspNetCore.Mvc.Core": "2.1.38",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "6.0.36",
-          "Service.Contracts": "1.0.0",
-          "Shared": "1.0.0"
+          "Service.Contracts": "1.0.0"
         },
         "runtime": {
           "CompanyEmployees.Presentation.dll": {
