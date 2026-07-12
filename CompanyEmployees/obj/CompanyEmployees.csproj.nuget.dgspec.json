@@ -568,6 +568,9 @@
             "projectReferences": {
               "C:\\Users\\DELL\\source\\repos\\CodeMaze\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
                 "projectPath": "C:\\Users\\DELL\\source\\repos\\CodeMaze\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+              },
+              "C:\\Users\\DELL\\source\\repos\\CodeMaze\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\DELL\\source\\repos\\CodeMaze\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
